@@ -1,0 +1,113 @@
+<mjml>
+	<mj-head>
+		<mj-title> Drone Consultation E-mail | InsideFPV </mj-title>
+	</mj-head>
+	<mj-body background-color="#EFEEEA">
+		<!-- InsideFPV Logo -->
+		<mj-section>
+			<mj-column>
+				<mj-image
+					src="https://insidefpv.com/wp-content/uploads/2022/06/cropped-image-4-127x58.png"
+					href="https://insidefpv.com/"
+					alt="InsideFPV Logo"
+					width="100px"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<!-- Heading Section -->
+		<mj-section background-color="#F9F9F9">
+			<mj-column>
+				<mj-text
+					align="center"
+					font-size="30px"
+					font-style="italic"
+					font-family="Verdana"
+					padding-top="50px"
+					padding-bottom="50px"
+				>
+					Elevate Your Drone Mastery
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- Content Section -->
+		<mj-section background-color="#FFFFFF">
+			<mj-column padding-top="10px" padding-bottom="10px">
+				<mj-text
+					font-size="20px"
+					font-family="Tahoma"
+					font-weight="400"
+					color="#333333"
+				>
+					Hey Vrishin!
+				</mj-text>
+				<mj-text
+					font-size="14px"
+					line-height="22.4px"
+					font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+					font-weight="400"
+					color="#333333"
+				>
+					Unlock the Full Potential with a Personalized Technical
+					Consultation!
+				</mj-text>
+
+				<mj-text
+					font-size="14px"
+					line-height="22.4px"
+					font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+					font-weight="400"
+					color="#333333"
+				>
+					Remember, our technical consultations are tailored to your
+					convenience and time, ensuring you have a thorough
+					understanding of your drone's capabilities. Reach out to us
+					today by selecting date and time and let's soar together!
+				</mj-text>
+
+				<!-- Call to Action Button -->
+				<mj-spacer height="25px" />
+				<mj-button
+					href="#"
+					font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+					font-weight="bold"
+					color="#FFFFFF"
+					background-color="#FF5151"
+				>
+					Book Your Consultation Slot
+				</mj-button>
+				<mj-spacer height="25px" />
+
+				<mj-text
+					font-size="14px"
+					line-height="22.4px"
+					font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+					font-weight="400"
+					color="#333333"
+				>
+					Making drone purchase convenient, easy and safe!
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- Mail Footer -->
+		<mj-section>
+			<mj-column>
+				<mj-text
+					align="center"
+					font-size="12px"
+					line-height="22.4px"
+					font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+					color="#AAAAAA"
+				>
+					&copy; 2022 insideFPV. All Rights Reserved.
+					<br />
+					Yogi Complex, L-7/A, New Rander Rd, opposite Amidharavadi
+					<br />
+					Jashwanti Nagar, Adajan, Surat, Gujarat 395009
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
