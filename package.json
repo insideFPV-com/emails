@@ -1,0 +1,14 @@
+{
+  "name": "@insidefpv/emails",
+  "version": "1.0.0",
+  "description": "All of InsideFPV's e-mail templates",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./index.js"
+  },
+  "author": "Vrishin Patel",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.14.1"
+  }
+}
