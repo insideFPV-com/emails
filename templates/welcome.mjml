@@ -1,0 +1,133 @@
+<mjml>
+	<mj-head>
+		<mj-title> Welcome to the world of FPV! </mj-title>
+		<mj-attributes>
+			<mj-all
+				font-size="14px"
+				line-height="22.4px"
+				font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+				font-weight="400"
+				color="#333333"
+			/>
+		</mj-attributes>
+	</mj-head>
+
+	<mj-body background-color="#EFEEEA">
+		<!-- InsideFPV Logo -->
+		<mj-section>
+			<mj-column>
+				<mj-image
+					src="https://insidefpv.com/wp-content/uploads/2022/06/cropped-image-4-127x58.png"
+					href="https://insidefpv.com/"
+					alt="InsideFPV Logo"
+					width="100px"
+				/>
+			</mj-column>
+		</mj-section>
+
+		<!-- Content Section -->
+		<mj-section background-color="#FFFFFF">
+			<mj-column padding-top="10px" padding-bottom="10px">
+				<mj-text
+					font-size="20px"
+					font-family="Tahoma"
+					font-weight="400"
+					color="#333333"
+				>
+					Hey Vrishin!
+				</mj-text>
+				<mj-text>
+					Thank you for your purchase of the insideFPV FPV drone kit.
+					We're excited to help you get started in this amazing
+					industry.
+				</mj-text>
+
+				<mj-text>
+					Here are a few tips to help you get the most out of your new
+					drone:
+				</mj-text>
+
+				<mj-text>
+					<strong> Practice on a simulator first. </strong>
+					This is a great way to learn the basics of flying an FPV
+					drone without having to worry about crashing a real one. We
+					recommend using the Liftoff simulator, which is available on
+					<a
+						href="https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/"
+					>
+						Steam </a
+					>.
+				</mj-text>
+
+				<mj-text>
+					<strong> Watch our Consultation Video. </strong>
+					We've prepared a comprehensive consultation video that
+					covers essential FPV concepts, techniques, and tips. This
+					video will give you a solid foundation to build upon as you
+					progress in your FPV journey.
+				</mj-text>
+
+				<mj-text>
+					Please take the time to watch it
+					<a href="https://youtu.be/PkU2pF2oEEo">here</a>.
+				</mj-text>
+
+				<mj-text>
+					<strong> Start flying in real time. </strong>
+					Once you've practiced on the simulator and watched our
+					videos, it's time to start flying in real time. Be patient
+					and don't get discouraged if you crash a few times. Everyone
+					crashes when they're first starting out.
+				</mj-text>
+
+				<mj-text>
+					<strong> Join the FPV Community. </strong>
+					You can connect with other pilots, learn from their
+					experience, and get help when you need it.
+				</mj-text>
+
+				<mj-text>
+					<strong> Practice, practice, practice! </strong>
+					The more you fly, the better you'll get. So get out there
+					and fly as much as you can.
+				</mj-text>
+
+				<mj-text>
+					<strong> Don't forget to have fun! </strong>
+					Flying FPV drones is an amazing hobby that can be enjoyed by
+					people of all ages. So relax, have fun, and enjoy the ride!
+				</mj-text>
+
+				<mj-text>
+					We hope these tips help you get started in the world of FPV.
+					If you have any questions, please don't hesitate to contact
+					us.
+				</mj-text>
+
+				<mj-text>
+					Sincerely, <br />
+					Team insideFPV
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- Mail Footer -->
+		<mj-section>
+			<mj-column>
+				<mj-text
+					align="center"
+					font-size="12px"
+					line-height="22.4px"
+					font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans','Helvetica Neue', sans-serif"
+					color="#AAAAAA"
+				>
+					&copy; 2023 insideFPV. All Rights Reserved.
+					<br />
+					Yogi Complex, L-7/A, New Rander Rd, opposite Amidharavadi
+					<br />
+					Jashwanti Nagar, Adajan, Surat, Gujarat 395009
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
